@@ -7,9 +7,9 @@ function NavBar() {
       <div className="container">
         <a className="navbar-brand fw-bold text-primary" href="#">
           <img
-            src="/logo192.png"
+            src="/HA.png"
             alt="HelioAndes"
-            width="35"
+            width="100"
             className="me-2"
           />
           HelioAndes
