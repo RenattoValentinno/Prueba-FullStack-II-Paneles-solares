@@ -26,7 +26,8 @@ function Hero() {
               Ver DEMO
             </a>
             <a
-              href="#"
+              href="/catalogo-helioandes.pdf"
+              download
               className="btn btn-outline-secondary rounded-pill px-4"
             >
               Descargar catálogo
